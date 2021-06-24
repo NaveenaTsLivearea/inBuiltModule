@@ -7,3 +7,14 @@ To clone any project to your local system use below command or you can simply do
 git clone https://github.com/NaveenaTsLivearea/inBuiltModule.git
 
 inBuiltModule - Repository Name NaveenaTsLivearea - User Name
+
+Once you clone/download project in your local directory perform npm install using terminal in vs code.
+
+npm install
+
+To start your server you can use be many ways.
+1)node app.js
+2)node app
+3)npm run start (For this you need to configure start script in config.json)
+4)npm start (For this you need to configure start script in config.json)
+
