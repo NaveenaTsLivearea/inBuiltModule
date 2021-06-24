@@ -13,7 +13,11 @@ Once you clone/download project in your local directory perform npm install usin
 npm install
 
 To start your server you can use be many ways.
+
 1)node app.js
+
 2)node app
+
 3)npm run start (For this you need to configure start script in config.json)
+
 4)npm start (For this you need to configure start script in config.json)
